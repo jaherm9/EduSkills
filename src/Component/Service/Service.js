@@ -23,7 +23,7 @@ const Service = () => {
     
         <div>
      
-     <Header></Header>
+     
             <div className="display-2 fw-bold py-5">Our Other <span className="text-warning">Courses</span></div>
         
             <Row xs={1} md={2} lg={3} className="g-5">

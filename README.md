@@ -1,14 +1,16 @@
-# Min Academy
+# EduSkills
 
-# Live site: 
+- resonable course pricing
+- courses and information
+- make budget estimation for your course
+  Explore Course!
+
+# Live site:
 
 ## used Technologies:
--React js 
+
+-JavaScript
 -React router
 -React Hooks
--Bootstrap
+-React Bootstrap
 -Css
--footawsome
-
-
-

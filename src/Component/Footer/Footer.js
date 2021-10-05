@@ -14,7 +14,7 @@ const Footer = () => {
             <div>
                 <h5>Info. Support. Contact</h5>
                 <h5>Terms of use Privacy Policy</h5>
-                <p className="text-secondary">Copyright &copy; Min Academy 2021</p>
+                <p className="text-secondary">Copyright &copy; EduSkills 2021</p>
             </div>
           
         </div>

@@ -9,17 +9,8 @@ import './About.css'
 const About = () => {
     return (
         <div>
-
-         <Header></Header>
-
-
-
-
         <Container>
-
-        
         <div className="about-us">
-
             <div className="single-about">
                 <div>
                 <i class="fas fa-phone-square-alt"></i>
@@ -34,7 +25,7 @@ const About = () => {
                 <i className="far fa-envelope"></i>
                 </div>
                 <div>
-                    <h3>MinLove@gmail.com</h3>
+                    <h3>EduSkills@info.com</h3>
                     <p>We will respond to your mail within business hour </p>
                 </div>
             </div>
@@ -43,17 +34,13 @@ const About = () => {
                 <i className="fas fa-map-marker-alt"></i>
                 </div>
                 <div>
-                    <h3>Aman Bazar, Chittagong</h3>
+                    <h3>Aman Bazar, Dhaka</h3>
                     <p>We are open 10am to 10pm</p>
                 </div>
             </div>
             
         </div>
-
-
             </Container>
-
-
         <Row>
 
         <Col sm={12} lg={6}>
@@ -68,35 +55,23 @@ const About = () => {
            </div>
 
            <div className="mt-5">
-               <h2 className="display-4">Chittagong Branch</h2>
+               <h2 className="display-4">Dhaka Branch</h2>
                <ul>
-                   <li className="fs-5 fw-bold"><i class="fas fa-map-marker-alt text-warning"></i> Hathazari,Chittagong</li>
-                   <li><i class="fas fa-phone-alt text-warning"></i>: +2929238383</li>
+                   <li className="fs-5 fw-bold"><i class="fas fa-map-marker-alt text-warning"></i> Hathazari,Dhaka</li>
+                   <li><i class="fas fa-phone-alt text-warning"></i>: +567894258</li>
                    <li></li>
                </ul>
            </div>
         </Col>
-
-
-
-
         <Col sm={12} lg={5} className="pt-5">
-         
          <Form  className="form ">
-
-             <h2 className="display-3 text-warning pt-5">Registration Form</h2>
-                
+             <h2 className="display-3 text-warning pt-5">Registration Form</h2>  
             <input className="inp p-2 my-4" type="text" lg placeholder="Enter Your First Name"/>
              <br />
-
-             
              <input className="inp p-2 my-4" type="text" placeholder="Enter Your Last Name" />
 
              <input className="inp p-2 mt-4" type="password" name="" id="" placeholder="Password" />
             <br />
-
-            <textarea className="mt-5 " name="" id="" cols="70" rows="10"></textarea> <br />
-
             <div class="d-grid gap-2 col-8 mx-auto py-3">
   <button class="btn btn-primary" type="button">Button</button>
   
@@ -104,11 +79,7 @@ const About = () => {
 
          </Form>
         </Col>
-
         </Row>
-
-
-    
         <Footer></Footer>
         </div>
     );
